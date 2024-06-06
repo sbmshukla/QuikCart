@@ -1,5 +1,7 @@
 # QuikCart (Project Is Under Progress)
 
+![Image Description](app/src/main/res/drawable/quikcart_app_icon.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
