@@ -1,7 +1,5 @@
 # QuikCart (Project Is Under Progress)
 
-![Image Description](app/src/main/res/drawable/quikcart_app_icon.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -11,7 +9,17 @@
 - [Contact](#contact)
 
 ## Introduction
-**QuickCart is your one-stop shop for getting groceries delivered straight to your door in a snap. We partner with local stores to bring you a wide selection of fresh produce, household essentials, and more, all at your fingertips.**
+
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+  <div style="flex: 1;">
+    <p align="start"><strong>QuickCart is your one-stop shop for getting groceries delivered straight to your door in a snap. We partner with local stores to bring you a wide selection of fresh produce, household essentials, and more, all at your fingertips.</strong></p>
+  </div>
+  <div style="flex: 1;">
+    <p align="end">
+      <img src="app/src/main/res/drawable/quikcart_app_icon.png" alt="Image Description">
+    </p>
+  </div>
+</div>
 
 ## Tech Stack Breakdown
 
