@@ -16,7 +16,7 @@
   </div>
   <div style="flex: 1;">
     <p align="end">
-      <img src="app/src/main/res/drawable/quikcart_app_icon.png" alt="Image Description">
+      <img src="app/src/main/res/drawable/quikcart_app_icon.png" alt="Glamora Logo" style="width: 150px; height: auto;">
     </p>
   </div>
 </div>
